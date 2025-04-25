@@ -33,3 +33,4 @@ Each disclosure contains CVE information, severity ratings (CVSS), affected prod
 
 | Date | CVE ID | Advisory |
 |------|---------|----------|
+| 2025-04-25 | CVE-2025-3935 | [ScreenConnect 2025.4 Security Patch](CVE-2025-3935/) 
