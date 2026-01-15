@@ -40,3 +40,4 @@ Each disclosure contains CVE information, severity ratings (CVSS), affected prod
 | 2025-10-16 | CVE-2025-11493 | [ConnectWise Automate 2025.9 Security Fix](CVE-2025-11493/) 
 | 2025-12-11 | CVE-2025-14265 | [ScreenConnect 2025.8 Security Patch](CVE-2025-14265/) 
 | 2025-12-18 | CVE-2025-14823 | [ScreenConnect™ Certificate Signing Extension 1.0.12 Security Update](CVE-2025-14823/) 
+| 2026-01-15 | CVE-2026-0695 | [ConnectWise PSA 2026.1 Security Fix](CVE-2026-0695/) 
