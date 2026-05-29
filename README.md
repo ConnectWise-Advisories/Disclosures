@@ -1,0 +1,35 @@
+<h1>
+  <img src="./ConnectWise-Reg-Icon-Blue.png" alt="ConnectWise" width="55">
+  ConnectWise CVE Advisory Repository
+</h1>
+
+This repository provides structured vulnerability advisories and serves as the primary public reference location for CVEs published by ConnectWise. Additional references, advisories, and communications may be issued based on established risk and impact criteria.
+
+### Vulnerability Disclosure Policy
+
+ConnectWise is committed to protecting the security and privacy of our colleagues, partners, and customers. We recognize that collaboration with independent security researchers, industry organizations, partners, and the broader security community is essential to identifying and addressing potential vulnerabilities. As part of this commitment, ConnectWise supports coordinated vulnerability disclosure and maintains a transparent process for reporting, evaluating, and remediating security issues. We encourage responsible disclosure and work collaboratively with researchers to strengthen the security of our products and services.
+
+For information on reporting vulnerabilities to ConnectWise, please review our Vulnerability Disclosure Policy:
+
+https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy
+
+
+## Security Resources
+
+- ConnectWise Vulnerability Disclosure Policy
+  - https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy
+
+- ConnectWise Trust Center
+  - https://www.connectwise.com/company/trust
+
+- ConnectWise Security Bulletins
+  - https://www.connectwise.com/company/trust/security-bulletins
+    
+---
+
+## Disclosures
+
+Each disclosure contains CVE information, severity ratings (CVSS), affected products and versions, remediation guidance, disclosure timelines, and relevant references.
+
+| Date | CVE ID | Advisory |
+|------|---------|----------|
