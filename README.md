@@ -36,3 +36,4 @@ Each disclosure contains CVE information, severity ratings (CVSS), affected prod
 | 2025-04-25 | CVE-2025-3935 | [ScreenConnect 2025.4 Security Patch](CVE-2025-3935/) 
 | 2025-05-19 | CVE-2025-4876 | [Hardcoded Key Revealed in ConnectWise Password Encryption Utility](CVE-2025-4876/) 
 | 2025-07-09 | CVE-2025-7204 | [ConnectWise PSA 2025.9 Security Fix](CVE-2025-7204/) 
+| 2025-10-16 | CVE-2025-11492 | [ConnectWise Automate 2025.9 Security Fix](CVE-2025-11492/) 
