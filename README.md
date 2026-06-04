@@ -44,3 +44,4 @@ Each disclosure contains CVE information, severity ratings (CVSS), affected prod
 | 2026-01-15 | CVE-2026-0696 | [ConnectWise PSA 2026.1 Security Fix](CVE-2026-0696/) 
 | 2026-03-17 | CVE-2026-3564 | [ScreenConnect™ 26.1 Security Hardening](CVE-2026-3564/) 
 | 2026-04-20 | CVE-2026-6066 | [ConnectWise Automate 2026.4 Security Fix](CVE-2026-6066/) 
+| 2026-05-21 | CVE-2026-9089 | [ConnectWise Automate 2026.5 Security Update](CVE-2026-9089/) 
