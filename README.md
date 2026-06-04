@@ -29,7 +29,7 @@ https://www.connectwise.com/company/trust/security/vulnerability-disclosure-poli
 
 ## Disclosures
 
-Each disclosure contains CVE information, severity ratings (CVSS), affected products and versions, remediation guidance, disclosure timelines, and relevant references.
+Each disclosure contains CVE information, severity ratings (CVSS), affected products and versions, remediation guidance, and relevant references, with additional details provided as applicable.
 
 | Date | CVE ID | Advisory |
 |------|---------|----------|
