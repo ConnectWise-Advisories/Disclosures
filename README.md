@@ -42,3 +42,4 @@ Each disclosure contains CVE information, severity ratings (CVSS), affected prod
 | 2025-12-18 | CVE-2025-14823 | [ScreenConnect™ Certificate Signing Extension 1.0.12 Security Update](CVE-2025-14823/) 
 | 2026-01-15 | CVE-2026-0695 | [ConnectWise PSA 2026.1 Security Fix](CVE-2026-0695/) 
 | 2026-01-15 | CVE-2026-0696 | [ConnectWise PSA 2026.1 Security Fix](CVE-2026-0696/) 
+| 2026-03-17 | CVE-2026-3564 | [ScreenConnect™ 26.1 Security Hardening](CVE-2026-3564/) 
