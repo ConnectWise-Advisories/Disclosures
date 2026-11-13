@@ -1,5 +1,5 @@
 <h1>
-  <img src="./ConnectWise-Reg-Icon-Blue.png" alt="ConnectWise" width="55">
+  <img src="./ConnectWise-Logomark-2Color-RGB.png" alt="ConnectWise" width="55">
   ConnectWise CVE Advisory Repository
 </h1>
 
